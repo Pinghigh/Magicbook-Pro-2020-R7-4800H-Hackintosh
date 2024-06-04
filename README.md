@@ -1,5 +1,8 @@
 # Magicbook-Pro-2020-R7-4800H-Hackintosh
 
+学业问题，可能更新暂缓  
+issues and PRs welcome
+
 严禁一切形式售卖，包括“会员免费”“收手工费”等。（某些网站，不想点名了）
 
 荣耀 Magicbook Pro 2020 R7-4800H (aka. HLYL-WXX9) 的 OpenCore Hackintosh 配置
